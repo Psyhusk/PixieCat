@@ -1,4 +1,4 @@
-# 🐱 PixieCat v1.0.0
+# 🐱 PixieCat v1.1.01
 ### Decodificador & Analisador de Links Pix Anti-Golpe
 **Created by psyhusk**
 
